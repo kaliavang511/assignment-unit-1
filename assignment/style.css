@@ -17,6 +17,7 @@
 .name{
     color: white;
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 /* Align the h1 containing your name in the center of the header*/
@@ -26,7 +27,7 @@ body {background-color: pink;}
 .image{
     border-radius: 100px;
     border-style: solid;
-    margin-left: 325px;
+    margin-left: 400px;
 }
 /* Put a border around your image */
 .list{
