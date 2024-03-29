@@ -1,0 +1,53 @@
+.header{
+    background-color:rgb(234, 144, 144);
+}
+/* Add a background color to the header element */
+
+.quote{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+}
+
+.main{
+    background-color: pink;
+}
+/* Add a fun background color to the main element */
+
+.name{
+    color: white;
+    text-align: center;
+}
+
+/* Align the h1 containing your name in the center of the header*/
+
+body {background-color: pink;}
+
+.image{
+    border-radius: 100px;
+    border-style: solid;
+    margin-left: 325px;
+}
+/* Put a border around your image */
+.list{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color:white
+}
+/* Make your p tag a different color and italic */
+    /* Change the font-family of your list */
+
+.footer{
+    background-color:white;
+}
+/* Add a background color to the footer element */
+
+.facts{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+
+}
